@@ -1,0 +1,3 @@
+this is a Social Media app with Chat feature
+
+Added post functionality
